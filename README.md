@@ -71,21 +71,21 @@ Here’s a preview of the app's UI:
     <tr>
       <td style="text-align: center; padding: 10px;">
         <img src="https://github.com/user-attachments/assets/3f7d2cd6-443d-45d9-af20-382c3b5f6937" alt="Payment Page" style="width: 100%; max-width: 500px;">
-        <p><b>Data From the Field</b></p>
+        <p><b>Aucual Energizer IOT</b></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <img src="https://github.com/user-attachments/assets/2af3d240-12f7-4f94-bad4-c31d13258791" alt="Hold Orders View" style="width: 100%; max-width: 500px;">
-        <p><b></b></p>
+        <p><b>Data From the Field Through MQTT</b></p>
       </td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px;">
         <img src="https://github.com/user-attachments/assets/15073dd1-3c4f-4d6f-92c6-eb60e5f8e17c" alt="Extra Image 1" style="width: 100%; max-width: 500px;">
-        <p><b>Extra Image 1</b></p>
+        <p><b>Energiser</b></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <img src="https://github.com/user-attachments/assets/a36a4b2b-1dcf-494d-9e97-01bd0be55aa0" alt="Extra Image 2" style="width: 100%; max-width: 500px;">
-        <p><b>Extra Image 2</b></p>
+        <p><b>Energiser Image 2</b></p>
       </td>
     </tr>
   </table>
