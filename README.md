@@ -61,21 +61,21 @@ Here’s a preview of the app's UI:
     <tr>
       <td style="text-align: center; padding: 10px;">
         <img src="https://github.com/user-attachments/assets/b8df0a6a-955d-4086-8ecf-56f383e6e6e9" alt="Menu Page" style="width: 100%; max-width: 500px;">
-        <p><b>Menu Page</b></p>
+        <p><b>On Off Button Mqtt</b></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <img src="https://github.com/user-attachments/assets/70a5c129-78d4-4519-9a20-d074d57e873b" alt="Order Summary" style="width: 100%; max-width: 500px;">
-        <p><b>Order Summary</b></p>
+        <p><b>Loading Connection</b></p>
       </td>
     </tr>
     <tr>
       <td style="text-align: center; padding: 10px;">
         <img src="https://github.com/user-attachments/assets/3f7d2cd6-443d-45d9-af20-382c3b5f6937" alt="Payment Page" style="width: 100%; max-width: 500px;">
-        <p><b>Payment Page</b></p>
+        <p><b>Data From the Field</b></p>
       </td>
       <td style="text-align: center; padding: 10px;">
         <img src="https://github.com/user-attachments/assets/2af3d240-12f7-4f94-bad4-c31d13258791" alt="Hold Orders View" style="width: 100%; max-width: 500px;">
-        <p><b>Hold Orders View</b></p>
+        <p><b></b></p>
       </td>
     </tr>
     <tr>
