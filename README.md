@@ -54,8 +54,52 @@ The app features a **modern and minimalistic UI** with:
 - **History Logs**: View past alerts and status changes.
 - **Settings Page**: Manage MQTT configurations and user preferences.
 
-## Screenshots
-*(Include relevant UI screenshots here)*
+Here’s a preview of the app's UI:
+
+<div style="display: flex; justify-content: center;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/b8df0a6a-955d-4086-8ecf-56f383e6e6e9" alt="Menu Page" style="width: 100%; max-width: 500px;">
+        <p><b>Menu Page</b></p>
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/70a5c129-78d4-4519-9a20-d074d57e873b" alt="Order Summary" style="width: 100%; max-width: 500px;">
+        <p><b>Order Summary</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/3f7d2cd6-443d-45d9-af20-382c3b5f6937" alt="Payment Page" style="width: 100%; max-width: 500px;">
+        <p><b>Payment Page</b></p>
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/2af3d240-12f7-4f94-bad4-c31d13258791" alt="Hold Orders View" style="width: 100%; max-width: 500px;">
+        <p><b>Hold Orders View</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/15073dd1-3c4f-4d6f-92c6-eb60e5f8e17c" alt="Extra Image 1" style="width: 100%; max-width: 500px;">
+        <p><b>Extra Image 1</b></p>
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/1f1cc6b1-0c52-4f0c-871d-b1a699266fad" alt="Extra Image 2" style="width: 100%; max-width: 500px;">
+        <p><b>Extra Image 2</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+![WhatsApp Image 2025-03-07 at 21 17 32 (2)]()
+
+![WhatsApp Image 2025-03-07 at 21 17 33]()
+
+![WhatsApp Image 2025-03-07 at 21 16 17]()
+
+![WhatsApp Image 2025-03-07 at 21 17 32 (3)]()
+
+![WhatsApp Image 2025-03-07 at 21 16 14]()
 
 ## MQTT Configuration
 
