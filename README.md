@@ -115,8 +115,4 @@ Here’s a preview of the app's UI:
 - **Dark Mode**: Theme toggle for better user experience.
 
 ## Author
-Developed by **[Your Name]**
-
-## License
-MIT License
-
+Developed by **Kinlehy Penjor**
