@@ -84,22 +84,12 @@ Here’s a preview of the app's UI:
         <p><b>Extra Image 1</b></p>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <img src="https://github.com/user-attachments/assets/1f1cc6b1-0c52-4f0c-871d-b1a699266fad" alt="Extra Image 2" style="width: 100%; max-width: 500px;">
+        <img src="https://github.com/user-attachments/assets/a36a4b2b-1dcf-494d-9e97-01bd0be55aa0" alt="Extra Image 2" style="width: 100%; max-width: 500px;">
         <p><b>Extra Image 2</b></p>
       </td>
     </tr>
   </table>
 </div>
-
-![WhatsApp Image 2025-03-07 at 21 17 32 (2)]()
-
-![WhatsApp Image 2025-03-07 at 21 17 33]()
-
-![WhatsApp Image 2025-03-07 at 21 16 17]()
-
-![WhatsApp Image 2025-03-07 at 21 17 32 (3)]()
-
-![WhatsApp Image 2025-03-07 at 21 16 14]()
 
 ## MQTT Configuration
 
